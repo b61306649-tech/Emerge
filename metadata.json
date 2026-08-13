@@ -1,0 +1,8 @@
+{
+  "name": "Emerge Private Fitness Studio",
+  "description": "A modern, scalable gym website for Emerge Private Fitness Studio with complete details on services, memberships, and contact info.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
